@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PriyaGPadanad
 - 👀 I’m interested in learning new technologies, especially in software development and AI/ML 
-- 🌱 I’m currently learning learning Java, web development, SQL and Servlet technologies
+- 🌱 I’m currently learning Java, web development, SQL and Servlet technologies
 - 💞️ I’m looking to collaborate on anything that helps beginners learn tech
 - 📫 How to reach me https://www.linkedin.com/in/priyagpadanad/
 - 😄 Pronouns: She/Her
