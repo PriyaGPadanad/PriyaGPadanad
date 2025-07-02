@@ -8,19 +8,6 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I name my Wi-Fi networks after my favorite programming languages. Currently connected to "JavaFi" 😄
 
-- ## 🛠️ Technologies & Tools I Use
-- 🌐 HTML, CSS, JavaScript, Bootstrap
-- ☕ Core Java, JDBC, Servlets
-- 🐘 MySQL, SQL
-- 🔧 Git, GitHub, VS Code, IntelliJ IDEA
-- 📊 Working on JSP, API Integration, and Front-End Projects
-
-- ## 🌱 Current Learning Goals
-- 📚 JSP and Bootstrap Integration
-- 🔗 API Development and Consumption
-- 🧠 DSA and OOP Concepts in Java
-
-
 <!---
 PriyaGPadanad/PriyaGPadanad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -29,6 +16,23 @@ You can click the Preview link to take a look at your changes.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+
+- ## 🛠️ Technologies & Tools I Use
+- 🌐 HTML, CSS, JavaScript, Bootstrap
+- ☕ Core Java, JDBC, Servlets
+- 🐘 MySQL, SQL
+- 🔧 Git, GitHub, VS Code, IntelliJ IDEA
+- 📊 Working on JSP, API Integration, and Front-End Projects
+
+---
+
+- ## 🌱 Current Learning Goals
+- 📚 JSP and Bootstrap Integration
+- 🔗 API Development and Consumption
+- 🧠 DSA and OOP Concepts in Java
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -45,14 +49,19 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
+---
 
 ## 🔥 My GitHub Stats
-![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyaGPadanad&show_icons=true&theme=radical)
+<p align="center">
+![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyaGPadanad&show_icons=true&theme=radical)</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=PriyaGPadanad&theme=radical)
+<p align="center">
+![GitHub Streak](https://streak-stats.demolab.com?user=PriyaGPadanad&theme=radical)</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaGPadanad&layout=compact&theme=radical)
+<p align="center">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaGPadanad&layout=compact&theme=radical)</p>
 
+---
 
 ## 📫 Connect With Me
 - ✉️ [Email](mailto:priyagpadanad@gmail.com)
