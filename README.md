@@ -81,6 +81,29 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
+## 🔥 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PriyaGPadanad&show_icons=true&theme=radical" alt="Priya's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PriyaGPadanad&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaGPadanad&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyaGPadanad&theme=radical" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
+
 ## 📫 Connect With Me
 - ✉️ [Email](mailto:priyagpadanad@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/priya-g-padanad)
