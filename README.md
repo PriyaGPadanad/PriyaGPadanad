@@ -28,3 +28,44 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaGPadanad&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+# 👋 Hi there, I'm Priya G Padanad!
+
+🎓 Computer Science Engineering Passout | 💻 Java & Web Development Enthusiast  
+🚀 Always learning new tech | ✨ Passionate about building user-focused apps
+
+---
+
+## 🛠️ Technologies & Tools I Use
+- 🌐 HTML, CSS, JavaScript, Bootstrap
+- ☕ Core Java, JDBC, Servlets
+- 🐘 MySQL, SQL
+- 🔧 Git, GitHub, VS Code, IntelliJ IDEA
+- 📊 Working on JSP, API Integration, and Front-End Projects
+
+---
+
+## 🔥 My GitHub Stats
+![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyaGPadanad&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=PriyaGPadanad&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaGPadanad&layout=compact&theme=radical)
+
+---
+
+## 🌱 Current Learning Goals
+- 📚 JSP and Bootstrap Integration
+- 🔗 API Development and Consumption
+- 🧠 DSA and OOP Concepts in Java
+
+---
+
+## 📫 Connect With Me
+- ✉️ [Email](mailto:priyagpadanad@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/priya-g-padanad)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
