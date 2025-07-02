@@ -17,7 +17,8 @@ You can click the Preview link to take a look at your changes.
 ## 🚀 Tech Stack 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+
+
 
 - ## 🛠️ Technologies & Tools I Use
 - 🌐 HTML, CSS, JavaScript, Bootstrap
@@ -26,7 +27,8 @@ You can click the Preview link to take a look at your changes.
 - 🔧 Git, GitHub, VS Code, IntelliJ IDEA
 - 📊 Working on JSP, API Integration, and Front-End Projects
 
----
+
+
 
 - ## 🌱 Current Learning Goals
 - 📚 JSP and Bootstrap Integration
@@ -34,6 +36,7 @@ You can click the Preview link to take a look at your changes.
 - 🧠 DSA and OOP Concepts in Java
 
 ---
+
 
 ## 🔥 My GitHub Stats
 
@@ -58,6 +61,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PriyaGPadanad&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
+
 
 
 
