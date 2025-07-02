@@ -1,10 +1,25 @@
 - 👋 Hi, I’m @PriyaGPadanad
-- 👀 I’m interested in learning new technologies, especially in software development and AI/ML 
+- 🎓 Computer Science Engineering Graduate
+-  💻 Java & Web Development Enthusiast  
+- ✨ Passionate about building user-focused apps 
+- 👀 I’m interested in learning new technologies, especially in software development and AI/ML
 - 🌱 I’m currently learning Java, web development, SQL and Servlet technologies
 - 💞️ I’m looking to collaborate on anything that helps beginners learn tech
-- 📫 How to reach me https://www.linkedin.com/in/priyagpadanad/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I name my Wi-Fi networks after my favorite programming languages. Currently connected to "JavaFi" 😄
+
+- ## 🛠️ Technologies & Tools I Use
+- 🌐 HTML, CSS, JavaScript, Bootstrap
+- ☕ Core Java, JDBC, Servlets
+- 🐘 MySQL, SQL
+- 🔧 Git, GitHub, VS Code, IntelliJ IDEA
+- 📊 Working on JSP, API Integration, and Front-End Projects
+
+- ## 🌱 Current Learning Goals
+- 📚 JSP and Bootstrap Integration
+- 🔗 API Development and Consumption
+- 🧠 DSA and OOP Concepts in Java
+
 
 <!---
 PriyaGPadanad/PriyaGPadanad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,21 +44,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaGPadanad&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-# 👋 Hi there, I'm Priya G Padanad!
 
-🎓 Computer Science Engineering Passout | 💻 Java & Web Development Enthusiast  
-🚀 Always learning new tech | ✨ Passionate about building user-focused apps
-
----
-
-## 🛠️ Technologies & Tools I Use
-- 🌐 HTML, CSS, JavaScript, Bootstrap
-- ☕ Core Java, JDBC, Servlets
-- 🐘 MySQL, SQL
-- 🔧 Git, GitHub, VS Code, IntelliJ IDEA
-- 📊 Working on JSP, API Integration, and Front-End Projects
-
----
 
 ## 🔥 My GitHub Stats
 ![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyaGPadanad&show_icons=true&theme=radical)
@@ -52,20 +53,11 @@ You can click the Preview link to take a look at your changes.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaGPadanad&layout=compact&theme=radical)
 
----
-
-## 🌱 Current Learning Goals
-- 📚 JSP and Bootstrap Integration
-- 🔗 API Development and Consumption
-- 🧠 DSA and OOP Concepts in Java
-
----
 
 ## 📫 Connect With Me
 - ✉️ [Email](mailto:priyagpadanad@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/priya-g-padanad)
 
----
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
