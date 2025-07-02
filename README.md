@@ -8,6 +8,12 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I name my Wi-Fi networks after my favorite programming languages. Currently connected to "JavaFi" 😄
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PriyaGPadanad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 <!---
 PriyaGPadanad/PriyaGPadanad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -32,6 +38,33 @@ You can click the Preview link to take a look at your changes.
 - 🧠 DSA and OOP Concepts in Java
 
 ---
+
+## 🔥 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PriyaGPadanad&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PriyaGPadanad&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaGPadanad&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+## 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyaGPadanad&theme=github-compact&area=true" alt="GitHub Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PriyaGPadanad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
 
 ## 🔥 My GitHub Stats
 
