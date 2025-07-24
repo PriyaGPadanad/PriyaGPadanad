@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning Java, web development, SQL and Servlet technologies
 - 💞️ I’m looking to collaborate on anything that helps beginners learn tech
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I name my Wi-Fi networks after my favorite programming languages. Currently connected to "JavaFi" 😄
 
 
 
